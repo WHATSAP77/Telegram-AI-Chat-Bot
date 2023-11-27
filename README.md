@@ -64,8 +64,8 @@ git clone https://github.com/DarkMakerofc/Telegram-AI-Chat-Bot && cd Telegram-AI
 
 
 # Heroku Deploy
-[`Heroku Deploy Button`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Telegram-AI-Chat-Bot)<br><br>
-<a href="https://youtu.be/9ITSj_hGK04">
+[`Heroku Deploy Button`](https://heroku.com/deploy?template=https://github.com/WHATSAP77/Telegram-AI-Chat-Bot)<br><br>
+<a href="https://t.me/am_films">
   <img src="https://telegra.ph/file/55fe37b1612b9201b0c1b.jpg" alt="Youtube Video" width="330" height="200">
 </a>
 # Replit Deploy
